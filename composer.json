@@ -2,13 +2,13 @@
     "name": "shopex/bbc-prism-sdk",
     "description": "SDK for shopex prism platform",
     "keywords": ["shopex", "prism", "api"],
-    "homepage": "http://github.com/shopex/prism-php",
+    "homepage": "http://github.com/ycms/prism-php",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Cai Yun Chen",
-            "email": "caiyunchen@shopex.cn",
+            "name": "EXPInfo",
+            "email": "help@expinfo.com",
             "homepage": "http://www.shopex.cn/"
         }
     ],
